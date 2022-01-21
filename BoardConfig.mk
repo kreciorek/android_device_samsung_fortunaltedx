@@ -1,10 +1,10 @@
 # Inherit from common
 include device/samsung/gprimelte-common/BoardConfigCommon.mk
 
-LOCAL_PATH := device/samsung/gprimeltexx
+LOCAL_PATH := device/samsung/fortunaltedx
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := gprimeltexx,fortunafz,grandprimelte,grandprimeltexx
+TARGET_OTA_ASSERT_DEVICE := fortunaltedx,samsung_sm_g530f,g530f
 
 # NFC
 BOARD_NFC_HAL_SUFFIX := msm8916

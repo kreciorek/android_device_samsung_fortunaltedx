@@ -1,13 +1,13 @@
-# android_device_samsung_gprimeltexx
+# android_device_samsung_fortunaltedx
 
-## Device tree for Samsung Galaxy Grand Prime G530FZ [gprimeltexx]
+## Device tree for Samsung Galaxy Grand Prime G530F [fortunaltedx]
 
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Qualcomm MSM8916 Quad-core 1.2 GHz ARM® Cortex™ A53
 CHIPSET | Qualcomm MSM8916 Snapdragon 410
 GPU     | Adreno 306
-Memory  | 1 GB
+Memory  | 1 GB LPDDR3
 Shipped Android Version | 5.0.2
 Storage | 8 GB
 MicroSD | Up to 64 GB

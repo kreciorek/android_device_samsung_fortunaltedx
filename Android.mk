@@ -1,4 +1,4 @@
-ifeq ($(TARGET_DEVICE),gprimeltexx)
+ifeq ($(TARGET_DEVICE),fortunaltedx)
 LOCAL_PATH := $(call my-dir)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 include $(call all-makefiles-under,$(LOCAL_PATH))

@@ -19,7 +19,7 @@
 set -e
 
 # Required!
-export DEVICE=gprimeltexx
+export DEVICE=fortunaltedx
 export DEVICE_COMMON=gprimelte-common
 export VENDOR=samsung
 

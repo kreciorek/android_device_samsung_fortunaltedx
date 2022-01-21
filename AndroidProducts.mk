@@ -1,8 +1,8 @@
-LOCAL_PATH := device/samsung/gprimeltexx
+LOCAL_PATH := device/samsung/fortunaltedx
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/lineage_gprimeltexx.mk
+	$(LOCAL_DIR)/lineage_fortunaltedx.mk
 
 COMMON_LUNCH_CHOICES := \
-	lineage_gprimeltexx-eng \
-	lineage_gprimeltexx-userdebug \
-	lineage_gprimeltexx-user
+	lineage_fortunaltedx-eng \
+	lineage_fortunaltedx-userdebug \
+	lineage_fortunaltedx-user
